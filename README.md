@@ -2,7 +2,7 @@
 
 # Multi-Tenant Media Response Agent
 
-**AI-powered Instagram & Facebook DM automation for — multi-tenant social media response with persistent memory, lead qualification, and automated meeting scheduling.**
+**AI-powered Instagram & Facebook DM automation — multi-tenant social media response with persistent memory, lead qualification, and automated meeting scheduling.**
 
 <br />
 
@@ -45,15 +45,7 @@
     <img src="https://img.shields.io/badge/Gmail-Notifications-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <br />
-  <a>
-    <img src="https://img.shields.io/badge/Multi-Tenant-Isolation-cyan?style=for-the-badge" alt="Multi-tenant" />
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/AI-Agent-LangChain-2EA44F?style=for-the-badge" alt="AI Agent" />
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" alt="Status" />
-  </a>
+
 </p>
 
 </div>
