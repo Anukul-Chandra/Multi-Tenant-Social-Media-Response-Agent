@@ -2,13 +2,13 @@
 
 # Multi-Tenant Media Response Agent
 
-**AI-powered Instagram & Facebook DM automation for Reihand — multi-tenant social media response with persistent memory, lead qualification, and automated meeting scheduling.**
+**AI-powered Instagram & Facebook DM automation for — multi-tenant social media response with persistent memory, lead qualification, and automated meeting scheduling.**
 
 <br />
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00FF9F&center=true&vCenter=true&width=700&lines=Multi-Tenant+Media+Response+Agent+for+Reihand;n8n+%7C+Claude+Sonnet+4.6+%7C+Postgres+Memory;Instagram+%2B+Facebook+DMs+%7C+Zoom+%2B+Google+Calendar+Meetings"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=00FF9F&center=true&vCenter=true&width=700&lines=Multi-Tenant+Media+Response+Agent;n8n+%7C+Claude+Sonnet+4.6+%7C+Postgres+Memory;Instagram+%2B+Facebook+DMs+%7C+Zoom+%2B+Google+Calendar+Meetings"
     alt="Typing SVG"
   />
 </p>
